@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Me chamo Júlia Rosa, tenho 22 anos. Atualmente curso Sistemas de Informação na UNINASSAU – Olinda (3º período). Também participei do projeto Com Domínio Digital 4.0, que faz parte do Instituto Aliança, com foco em programação, bancos de dados e metodologias ágeis. Tenho conhecimentos em Java, Python, SQL, Git, e lógica de programação.
+Me chamo Júlia Rosa, tenho 22 anos. Atualmente curso Sistemas de Informação na UNINASSAU – Olinda (3º período). Também participei do projeto Com Domínio Digital 4.0, que faz parte do Instituto Aliança, com foco em programação, bancos de dados e metodologias ágeis. Tenho conhecimento em Java, Python, SQL, Git, e lógica de programação.
 
 ### 🤖 Linguagens e Tecnologias
 
