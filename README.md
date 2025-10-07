@@ -25,7 +25,7 @@ Atualmente, sigo aprendendo e evoluindo através de cursos, projetos acadêmicos
 <div style="display: inline_block"><br/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"/>
-<img alt="VSCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 </div>  
 
 ## 👥 Plataformas Colaborativas
