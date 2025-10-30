@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Júlia Rosa 
 
-**`Desenvolvedora Back-End`**
+**`Software Developer`**
 
 Me chamo Júlia e curso Ciência da Computação na Universidade Tiradentes | UNIT.
 
