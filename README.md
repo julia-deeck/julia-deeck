@@ -24,6 +24,7 @@ Atualmente, sigo aprendendo e evoluindo através de cursos, projetos acadêmicos
 
 <div style="display: inline_block"><br/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
+<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 </div>  
